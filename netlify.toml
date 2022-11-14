@@ -2,6 +2,3 @@
 base = "./"
 command = "CI= npm run build"
 publish = "./build/"
-
-[build.enviroment]
-REACT_APP_API_URL="https://bethehero--backend.herokuapp.com/"
