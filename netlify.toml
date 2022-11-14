@@ -1,6 +1,6 @@
 [build]
-base = "./src/"
-command = "npm start"
+base = "./"
+command = "CI= npm run build"
 publish = "./build/"
 
 [build.enviroment]
